@@ -7,10 +7,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Unified API
+  - CRM
   - Integrations
   - Open Source
-  - CRM
+  - Unified API
 url: >-
   https://raw.githubusercontent.com/api-evangelist/panora/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -24,8 +24,8 @@ apis:
       third-party tools through a single API.
     humanURL: https://panora.dev/
     tags:
-      - Unified API
       - Integrations
+      - Unified API
     properties:
       - type: Documentation
         url: https://docs.panora.dev/
