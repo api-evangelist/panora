@@ -29,14 +29,14 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.panora.dev/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.panora.dev/getting-started
 common:
   - type: Portal
     url: https://panora.dev/
   - type: Documentation
     url: https://docs.panora.dev/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/panoratech/Panora
   - type: Website
     url: https://panora.dev/
