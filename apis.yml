@@ -32,6 +32,8 @@ apis:
       - type: GettingStarted
         url: https://docs.panora.dev/getting-started
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/panora-exchange
   - type: Portal
     url: https://panora.dev/
   - type: Documentation
