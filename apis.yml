@@ -32,6 +32,8 @@ apis:
       - type: GettingStarted
         url: https://docs.panora.dev/getting-started
 common:
+  - type: DomainSecurity
+    url: security/panora-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/panora-exchange
   - type: Portal
