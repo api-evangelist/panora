@@ -20,6 +20,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/panora.png
 tags:
   - CRM
+  - Integration
+  - Open-Source
+  - Unified-API
+tags_raw:
+  - CRM
   - Integrations
   - Open Source
   - Unified API
@@ -36,6 +41,9 @@ apis:
       third-party tools through a single API.
     humanURL: https://panora.dev/
     tags:
+      - Integration
+      - Unified-API
+    tags_raw:
       - Integrations
       - Unified API
     properties:
