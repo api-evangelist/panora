@@ -5,6 +5,17 @@ description: >-
   integrate with hundreds of third-party tools through a single API. It
   provides a unified interface for CRM, HR, accounting, and other integrations.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
