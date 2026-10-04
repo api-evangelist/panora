@@ -33,13 +33,15 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/panora.png
 tags:
   - CRM
   - Integration
-  - Open-Source
-  - Unified-API
+  - Open Source
+  - Unified API
 tags_raw:
   - CRM
   - Integrations
   - Open Source
   - Unified API
+  - Open-Source
+  - Unified-API
 url: >-
   https://raw.githubusercontent.com/api-evangelist/panora/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -54,10 +56,11 @@ apis:
     humanURL: https://panora.dev/
     tags:
       - Integration
-      - Unified-API
+      - Unified API
     tags_raw:
       - Integrations
       - Unified API
+      - Unified-API
     properties:
       - type: Documentation
         url: https://docs.panora.dev/
